@@ -215,4 +215,3 @@ const team = [
     image: "/placeholder.svg?height=400&width=400",
   },
 ]
-
