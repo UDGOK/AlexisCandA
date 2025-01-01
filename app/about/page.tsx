@@ -1,8 +1,8 @@
 'use client'
 
 import Image from 'next/image'
-import { ScrollSection } from '@/components/scroll-section'
-import { MotionWrapper } from '@/components/motion-wrapper'
+import { ScrollSection } from '@/components/ScrollSection'
+import { MotionWrapper } from '@/components/MotionWrapper'
 
 export default function AboutPage() {
   return (
