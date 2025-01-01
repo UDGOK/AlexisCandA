@@ -30,4 +30,3 @@ export const MotionWrapper: React.FC<MotionWrapperProps> = ({ children, motionTa
 
   return <MotionComponent {...props}>{children}</MotionComponent>
 }
-
